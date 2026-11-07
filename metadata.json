@@ -1,0 +1,6 @@
+{
+  "name": "NEXA AI",
+  "description": "Futuristic AI voice & multimodal assistant featuring multi-language voice commands, speech synthesis, image generation, content writer, and Groq & Gemini AI integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

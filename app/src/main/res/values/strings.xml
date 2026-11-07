@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NEXA AI</string>
+    <string name="accessibility_service_description">NEXA AI Accessibility &amp; Automation Service allows executing voice and smart assistant actions such as screen taps, gestures, app navigation, and social interactions.</string>
+    <string name="device_admin_description">Allows NEXA AI to lock the device screen instantly upon voice command.</string>
+    <string name="nexa_background_service_desc">Keeps NEXA AI running in the background to automatically wake and listen when the device screen turns on.</string>
+</resources>
+
